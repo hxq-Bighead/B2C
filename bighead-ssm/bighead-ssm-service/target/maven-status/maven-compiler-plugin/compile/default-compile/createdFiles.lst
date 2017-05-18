@@ -1,0 +1,14 @@
+com\bighead\service\impl\ItemParamServiceImpl.class
+com\bighead\service\UserService.class
+com\bighead\service\PictureService.class
+com\bighead\service\impl\ItemCatServiceImpl.class
+com\bighead\service\ItemCatService.class
+com\bighead\service\ItemParamService.class
+com\bighead\service\ItemParamItemService.class
+com\bighead\service\ItemService.class
+com\bighead\service\impl\ItemParamItemServiceImpl.class
+com\bighead\service\impl\ItemServiceImpl.class
+com\bighead\service\impl\UserServiceImpl.class
+com\bighead\service\OrderItemService.class
+com\bighead\service\impl\OrderItemServiceImpl.class
+com\bighead\service\impl\PictureServiceImpl.class

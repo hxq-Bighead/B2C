@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 4 resources" deleteContents="false" description="Delete 4 resources" element1="/bighead-ssm-web/src/main/webapp/WEB-INF/jsp/content-add.jsp" element2="/bighead-ssm-web/src/main/webapp/WEB-INF/jsp/content-category.jsp" element3="/bighead-ssm-web/src/main/webapp/WEB-INF/jsp/content-edit.jsp" element4="/bighead-ssm-web/src/main/webapp/WEB-INF/jsp/content.jsp" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="4" stamp="1488873208859"/>
+</session>

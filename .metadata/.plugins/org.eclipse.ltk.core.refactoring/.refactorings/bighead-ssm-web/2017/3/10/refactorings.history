@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;result&apos; from expression &apos;orderItemService.deleteOrder(id)&apos;&#x0D;&#x0A;- Original project: &apos;bighead-ssm-web&apos;&#x0D;&#x0A;- Variable name: &apos;result&apos;&#x0D;&#x0A;- Destination method: &apos;com.bighead.controller.OrderItemController.deleteOrder()&apos;&#x0D;&#x0A;- Variable expression: &apos;orderItemService.deleteOrder(id)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;result&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java&lt;com.bighead.controller{OrderItemController.java" name="result" replace="true" selection="879 0" stamp="1488937160403" version="1.0"/>
+</session>

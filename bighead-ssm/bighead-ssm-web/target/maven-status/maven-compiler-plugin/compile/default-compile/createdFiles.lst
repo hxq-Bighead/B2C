@@ -1,0 +1,8 @@
+com\bighead\controller\ItemController.class
+com\bighead\controller\PageController.class
+com\bighead\controller\UserController.class
+com\bighead\controller\PictureController.class
+com\bighead\controller\ItemParamItemController.class
+com\bighead\controller\OrderItemController.class
+com\bighead\controller\ItemCatController.class
+com\bighead\controller\ItemParamController.class
